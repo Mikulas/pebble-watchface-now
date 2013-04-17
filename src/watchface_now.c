@@ -6,7 +6,7 @@
 
 PBL_APP_INFO(MY_UUID,
              "Now", "Mikulas",
-             1, 0, /* App version */
+             1, 1, /* App version */
              RESOURCE_ID_IMAGE_MENU_ICON,
              APP_INFO_WATCH_FACE);
 
